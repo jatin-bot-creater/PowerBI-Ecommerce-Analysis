@@ -42,21 +42,11 @@ The dataset contains ecommerce sales information including:
 
 ## Main Dashboard
 
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Dashboard_E-commerce.png)
 
 ---
 
-## Sales Analysis
 
-![Sales](Screenshots/Sales.png)
-
----
-
-## Profit Analysis
-
-![Profit](Screenshots/Profit.png)
-
----
 
 # 📈 Key Insights
 
